@@ -51,8 +51,7 @@ const Hero = () => {
                 Your Gateway to Smart WhatsApp Marketing and Stellar Reviews
               </h1>
               <p className="body-1 max-w-lg mx-auto lg:mx-0 mb-6 text-n-8">
-                Unleash the power of AI within Brainwave. Upgrade your
-                productivity with Brainwave, the open AI chat app.
+                Engagehub automates WhatsApp marketing to capture leads, send bulk messages, manage feedback, and boost sales through smart CRM integration.
               </p>
               <div className="mb-5">
                 <Button href="./pricing" white>
